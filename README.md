@@ -1,5 +1,5 @@
 # realsense_ros
-I wewrite the ROS node for realsense camera SR300 for solving the misalignment between RGB image and Depth image
+I rewrite the ROS node for realsense camera SR300 for solving the misalignment between RGB image and Depth image
 * Used Realsense API: rs2::align
 * Camera version: realsense SR300
 
