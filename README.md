@@ -9,3 +9,8 @@ You can locate the two parameters in realsense_ros_node.cpp line:45,46
 #define  shift_x 2
 #define  shift_y 8
 ```
+
+To run this ros node
+```
+rosrun realsense_ros realsense_ros_node
+```
